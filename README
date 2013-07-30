@@ -1,0 +1,22 @@
+Author: Stosswalkinator
+Github: https://github.com/Stosswalkinator
+Email: luke.stoss@gmail.com
+Title: Wx Text Editor
+
+=======================================================================
+
+DESCRIPTION:
+Text editor built in Python using the GUI library WxPython. The code is kind of messy. I'm hoping for contributions that help make this better as well as help me learn more about WxPython
+
+=======================================================================
+
+KNOWN ISSUES:
+1) Doesn't properly function. At all. Ever. ~______________~ <-- glaring whale
+
+=======================================================================
+
+FUTURE DEVELOPMENT:
+1) Fix issues
+2) Expand file base
+3) Wrap in Py2exe for deployment on Win systems
+4) Package for other systems
